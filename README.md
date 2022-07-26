@@ -1,2 +1,2 @@
-# PROC75-ACT-Maestra-1-master
-clase 75 autenticación de usuarios
+# Biblioteca digital-75
+Código para la actividad de la maestra
